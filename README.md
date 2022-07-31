@@ -2,7 +2,7 @@
 
 ## Looking for code from a recent publication?
 - <img src="https://raw.githubusercontent.com/t-carroll/t-carroll/main/esophageal_cancer_ribbon.png" width=15>  [LUD2015-005 Biomarkers for Immunochemotherapy in EAC (private until publication)](https://github.com/t-carroll/LUD2015-005)
-- 🤓 [iASPP KO in mouse keratinocytes (RNA-seq/ChIP-seq, private until publication)](https://github.com/t-carroll/iASPP_keratinocyte_ChIPseq_RNAseq)
+- 🤓 [iASPP KO in mouse keratinocytes](https://github.com/t-carroll/iASPP_keratinocyte_ChIPseq_RNAseq) (RNA-seq/ChIP-seq from Al Moussawi et al., Cell Reports 2022)
 - 💬 More in progress... check back soon!
 
 **Send me a message or raise an issue if you need anything!**
